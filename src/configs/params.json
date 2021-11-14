@@ -1,0 +1,23 @@
+{
+    "model_configs_train":{
+      "hidden_size": "64",
+      "num_layers": "2",
+      "input_size": "1",
+      "num_classes": "153",
+      "num_epochs": "200",
+      "batch_size" : "512",
+      "window_size" : "10",
+      "n_epochs_stop": "250",
+      "model_dir" :"saved_model"
+
+  },
+    "model_configs_test":{
+      "num_classes": "153",
+      "input_size": "1",
+      "model_path": "saved_model/Adam_batch_size=512_epoch=200.pt",
+      "num_layers": "2",
+      "hidden_size": "64",
+      "window_size" : "9",
+      "num_candidates": "100"
+    }
+}

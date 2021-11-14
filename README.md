@@ -33,7 +33,7 @@ the required format. We will call the same function with test file, and will get
 For model training, we will use Train.csv file to train and for prediction, we will use Test_Out.csv file, which was created by calling Feature Engineering on the File that had some anomalous values.
 </li></ol>
 
-# Achivements
+# Achievements
 
 Successfully Completed this project.
 

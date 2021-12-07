@@ -1,5 +1,4 @@
 # DATA PREPROCESSING
-This code is available at CloudAEye utils.
 
 For Log Parsing, we are using 
  
